@@ -4,9 +4,9 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: false
 ---
-(G: Graduate, UG: Undergraduate)
+(G: Graduate, U: Undergraduate)
 
 ## Teaching Assistant (at POSTECH)
 
-* **(UG) Production & Operations Management** (Spring 2019)
-* **(G) Network Flows** (Fall 2018)
+* **(U) IMEN 376 &nbsp; Production & Operations Management** (Spring 2019)
+* **(G) IMEN561 &nbsp; Network Flows** (Fall 2018)
