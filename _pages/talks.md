@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-(*: the presenter)
+(*: attended as the presenter)
 
 ## Conference Presentations (International)
 

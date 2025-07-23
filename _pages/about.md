@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-* Pohang University of Science and Technology [POSTECH](https://www.postech.ac.kr/eng/index.do)
+* Pohang University of Science and Technology [(POSTECH)](https://www.postech.ac.kr/eng/index.do)
+  * The Department of Industrial and Management Engineering [(POSTECH IME)](https://ime.postech.ac.kr/en/)
 * Management Science and Optimization Lab [(MSO Lab)](https://www.msolab.org/)
-* The Department of Industrial and Management Engineering [(POSTECH IME)](https://ime.postech.ac.kr/en/)
 
 ## Research Interest
 
@@ -31,7 +31,7 @@ redirect_from:
 
 ## Work Experience
 
-* **Visiting Predoctoral Fellow** @ LaBRI, Laboratoire Bordelais de Recherche en Informatique (Jun & Nov 2024)
+* **Visiting Predoctoral Fellow** @ LaBRI (Laboratoire Bordelais de Recherche en Informatique) (Jun & Nov 2024)
   * Host: Dr. [Loïc Paulevé](https://loicpauleve.name/)
 * **Visiting Predoctoral Fellow** @ Stern School of Business, New York University (Jan 2024)
   * Host: Professor [Michael L. Pinedo](https://www.stern.nyu.edu/faculty/bio/michael-pinedo)
@@ -45,11 +45,12 @@ redirect_from:
 
 ## Academic Activities
 
-* Journal Reviewer
-  * Computers & Operations Research (2025-present)
-  * Computers & Industrial Engineering (2024-present)
-  * OR Spectrum (2023-present)
-  * International Journal of Production Research (2022-present)
+### Journal Reviewer
+
+* Computers & Operations Research (2025-present)
+* Computers & Industrial Engineering (2024-present)
+* OR Spectrum (2023-present)
+* International Journal of Production Research (2022-present)
 
 ## Scholarships
 
