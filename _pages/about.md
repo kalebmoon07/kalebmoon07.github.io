@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ph.D. candidate at POSTECH"
+title: "Ph.D. Candidate at POSTECH"
 author_profile: true
 redirect_from: 
   - /about/
