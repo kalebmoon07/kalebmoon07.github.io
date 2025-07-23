@@ -62,4 +62,3 @@ redirect_from:
 * Work Scholarship, POSTECH (Mar 2015-Feb 2017)
 * STX Foundation Scholarship, STX Foundation (Mar 2017-Aug 2018)
 * POSTECH Church Scholarship, POSTECH (Jan 2017)
-
