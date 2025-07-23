@@ -1,6 +1,7 @@
 ---
 title: "A bilevel integer programming approach for the synchronous attractor control problem"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-paper-title-number-6
 excerpt: 'This paper is about a bilevel integer programming approach for the synchronous attractor control problem.'
 date: 2025-01-01

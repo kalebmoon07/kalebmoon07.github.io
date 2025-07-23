@@ -1,6 +1,7 @@
 ---
 title: "Iterated greedy algorithm with constraint programming for scheduling steelmaking-continuous casting process"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-01-01-paper-title-number-7
 excerpt: 'This paper is about an iterated greedy algorithm with constraint programming for scheduling steelmaking-continuous casting process.'
 date: 2023-01-01

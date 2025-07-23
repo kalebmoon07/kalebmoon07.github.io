@@ -1,6 +1,7 @@
 ---
 title: "A critical review of planning and scheduling in steel-making and continuous casting in the steel industry"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-01-01-paper-title-number-3
 excerpt: 'This paper is a review of planning and scheduling in the steel industry.'
 date: 2024-01-01

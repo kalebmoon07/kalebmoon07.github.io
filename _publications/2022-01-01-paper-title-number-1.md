@@ -1,6 +1,7 @@
 ---
 title: "Bilevel integer programming on a Boolean network for discovering critical genetic alterations in cancer development and therapy"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-01-01-paper-title-number-1
 excerpt: 'This paper is about bilevel integer programming on a Boolean network for discovering critical genetic alterations in cancer development and therapy.'
 date: 2022-01-01

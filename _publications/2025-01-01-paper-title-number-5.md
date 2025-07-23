@@ -1,6 +1,7 @@
 ---
 title: "A taxonomy for understanding the variety in control methods for Boolean networks"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-paper-title-number-5
 excerpt: 'This paper is about a taxonomy for understanding the variety in control methods for Boolean networks.'
 date: 2025-01-01

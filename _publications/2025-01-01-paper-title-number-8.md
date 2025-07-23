@@ -1,6 +1,7 @@
 ---
 title: "Fleet size problem with crowdsourcing for last-mile delivery and regulation effect on crowdsourcing"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-paper-title-number-8
 excerpt: 'This paper is about a fleet size problem with crowdsourcing for last-mile delivery and regulation effect on crowdsourcing.'
 date: 2025-01-01

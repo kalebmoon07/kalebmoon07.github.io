@@ -7,8 +7,36 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in the Department of Industrial and Management Engineering at POSTECH (Pohang University of Science and Technology), advised by Prof. Kangbok Lee. My research interests include bilevel optimization, computational biology, and production planning & scheduling.
+Ph.D. candidate at POSTECH (Pohang University of Science and Technology)
 
-I am expected to graduate in August 2025. I have been a visiting predoctoral fellow at the University of Bordeaux, New York University, and Northwestern University.
+* Management Science and Optimization Lab [(MSO Lab)](https://www.msolab.org/)
+* The Department of Industrial and Management Engineering [(POSTECH IME)](https://ime.postech.ac.kr/en/)
 
-This website includes my publications, talks, and teaching experience. You can also find my CV here.
+## Research Interest
+
+* Multi-level optimization
+* Production planning & scheduling
+* Computational biology
+
+## Education
+
+* Ph.D. in Industrial and Management Engineering, POSTECH (2020-2025)
+  * Thesis: Multilevel Optimization for Precision Medicine: A Boolean Network Control Approach
+  * Advisor: Professor [Kangbok Lee](https://www.msolab.org/)
+* M.S. in Industrial and Management Engineering, POSTECH (2018-2020)
+  * Thesis: Strategic Location Problem for Last-mile Delivery with Relaying Drones
+  * Advisor: Professor [Kangbok Lee](https://www.msolab.org/)
+  <!-- * Early graduation, The Best Presenter Award (Department of IME, POSTECH) -->
+* B.S. in Industrial and Management Engineering, POSTECH (2015-2018)
+  <!-- * Early graduation, Summa Cum Laude (2nd place) -->
+
+## Work Experience
+
+* Visiting Predoctoral Fellow @ LaBRI (Laboratoire Bordelais de Recherche en Informatique) (Jun, Nov 2024)
+  * Host: Dr. [Loïc Paulevé](https://loicpauleve.name/)
+* Visiting Predoctoral Fellow @ Stern School of Business, New York University (Jan 2024)
+  * Host: Professor [Michael L. Pinedo](https://www.stern.nyu.edu/faculty/bio/michael-pinedo)
+* Visiting Predoctoral Fellow @ Kellogg School of Management, Northwestern University (Jul-Aug 2017)
+  * Host: Professor [Sunil Chopra](https://www.kellogg.northwestern.edu/faculty/directory/chopra_sunil/)
+<!-- * Intern, PMGROW Corp. (Jul-Aug 2016) -->
+

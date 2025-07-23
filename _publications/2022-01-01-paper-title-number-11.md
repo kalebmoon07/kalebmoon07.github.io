@@ -1,6 +1,7 @@
 ---
 title: "Rescheduling problem for heavy cargo logistics with transporters"
 collection: publications
+category: conferences
 permalink: /publication/2022-01-01-paper-title-number-11
 excerpt: 'This paper is about a rescheduling problem for heavy cargo logistics with transporters.'
 date: 2022-01-01

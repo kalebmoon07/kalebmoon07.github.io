@@ -1,6 +1,7 @@
 ---
 title: "An iterated greedy matheuristic for scheduling in steelmaking-continuous casting process"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-01-01-paper-title-number-2
 excerpt: 'This paper is about an iterated greedy matheuristic for scheduling in steelmaking-continuous casting process.'
 date: 2022-01-01

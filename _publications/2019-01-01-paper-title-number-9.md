@@ -1,6 +1,7 @@
 ---
 title: "Strategic Location Problem for Synchronized Last-mile Delivery with Relaying Drones"
 collection: publications
+category: manuscripts
 permalink: /publication/2019-01-01-paper-title-number-9
 excerpt: 'This paper is about a strategic location problem for synchronized last-mile delivery with relaying drones.'
 date: 2019-01-01

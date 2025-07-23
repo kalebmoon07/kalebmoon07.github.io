@@ -22,12 +22,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "250425_profile.png"
   name             : "Kyungduk Moon"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate at POSTECH, Korea"
   location         : "Pohang, Korea"
-  employer         : "POSTECH (Pohang University of Science and Technology)"
+  employer         : "POSTECH"
   uri              : https://msolab.org
   email            : "kaleb.moon@postech.ac.kr" 
 

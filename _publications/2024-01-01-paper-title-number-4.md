@@ -1,6 +1,7 @@
 ---
 title: "Computational complexity of minimal trap spaces in Boolean networks"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-01-01-paper-title-number-4
 excerpt: 'This paper is about the computational complexity of minimal trap spaces in Boolean networks.'
 date: 2024-01-01
