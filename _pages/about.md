@@ -61,4 +61,4 @@ redirect_from:
 * Jigok Scholarship, POSTECH (Mar 2015-Feb 2017)
 * Work Scholarship, POSTECH (Mar 2015-Feb 2017)
 * STX Foundation Scholarship, STX Foundation (Mar 2017-Aug 2018)
-* POSTECH Church Scholarship, POSTECH (Jan 2017)
+* POSTECH Church Scholarship, POSTECH Church (Jan 2017)
