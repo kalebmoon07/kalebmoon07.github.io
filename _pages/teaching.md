@@ -8,5 +8,5 @@ author_profile: false
 
 ## Teaching Assistant (at POSTECH)
 
-* **(U) IMEN 376 &nbsp; Production & Operations Management** (Spring 2019)
-* **(G) IMEN561 &nbsp; Network Flows** (Fall 2018)
+* **(U) IMEN 376** &nbsp; Production & Operations Management (Spring 2019)
+* **(G) IMEN561** &nbsp; Network Flows (Fall 2018)
