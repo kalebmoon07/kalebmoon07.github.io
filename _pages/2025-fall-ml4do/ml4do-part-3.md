@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Machine Learning for Discrete Optimization (IMEN891N, Fall 2025)"
-permalink: /teaching/2025-fall-ml4do/part-3
+title: "AI for Discrete Optimization (IMEN891N, Fall 2025)"
+permalink: /teaching/ai4do/2025/part-3
 author_profile: false
 ---
 
