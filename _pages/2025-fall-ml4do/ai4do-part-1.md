@@ -7,7 +7,7 @@ author_profile: false
 
 (♦: In-class presentation by students)
 
-## Part I: Basic machine learning techniques
+## Part I: Basic AI techniques
 
 ### Week 1: Introduction
 

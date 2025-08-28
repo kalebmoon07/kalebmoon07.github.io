@@ -8,11 +8,24 @@ author_profile: false
 
 Recent progress in Artificial Intelligence (AI) has demonstrated its power to tackle NP-hard discrete optimization problems and improve the decision-making process. Numerous research articles have been published in both traditional Operations Research (OR) journals and top AI conferences, reflecting increasing interest in this emerging field.
 
-This course is designed to prepare students to conduct their own research at the intersection of AI and discrete optimization. We will focus primarily on scheduling and routing problems, graph optimization problems, and general mixed-integer programming (MIP). The course will cover two core topics: 
-
+This course is designed to prepare students to conduct their own research at the intersection of AI and discrete optimization. We will focus primarily on scheduling and routing problems, graph optimization problems, and general mixed-integer programming (MIP). The course will cover two core topics:
 
 * (i) **Data-driven algorithm design**: Using AI to improve the performance of optimization algorithms
 * (ii) **Data-driven optimization**: Leveraging learned data to make better decisions under uncertainty.
+
+## Prerequisites
+
+### Strongly recommended
+
+* **IMEN662 Discrete Optimization**
+* IMEN260 Operations Research I (or IMEN661 Advanced Linear Programming)
+* IMEN272 Probability and Statistics for Engineers (or equivalent)
+
+### Useful but not required
+
+* IMEN764 Dynamic Programming & Reinforcement Learning Applications (or CSED627 Reinforcement Learning)
+* Basic concepts in various machine learning models
+  * Only deep reinforcement learning and bandit models will be quickly reviewed
 
 ## Course Logistics
 
@@ -40,7 +53,7 @@ The course is designed to be comprehensive and interactive with the components b
 
 | Week  | Date  | Topic(s)                                                                               | Assignment due dates           |
 | :---: | :---: | -------------------------------------------------------------------------------------- | ------------------------------ |
-|       |       | [**Part I: Basic AI techniques**](/teaching/ai4do/2025/part-1)                    |                                |
+|       |       | [**Part I: Basic AI techniques**](/teaching/ai4do/2025/part-1)                         |                                |
 |   1   |  9/2  | Introduction: Motivation & trends                                                      |                                |
 |       |  9/4  | Deep Reinforcement Learning (DRL) – Graph Neural Networks (GNN)                        |                                |
 |   2   |  9/9  | Deep Reinforcement Learning (DRL) – RL basics                                          |                                |
@@ -49,7 +62,7 @@ The course is designed to be comprehensive and interactive with the components b
 |       | 9/18  | Applications of DRL: Scheduling problems ♦                                             |                                |
 |   4   | 9/23  | <span style="color:green;">Simulation-based learning – Bandit models</span>            |                                |
 |       | 9/25  | <span style="color:green;">Simulation-based learning – Bandit models and others</span> |                                |
-|       |       | [**Part II: Data-driven algorithm design**](/teaching/ai4do/2025/part-2)          |                                |
+|       |       | [**Part II: Data-driven algorithm design**](/teaching/ai4do/2025/part-2)               |                                |
 |   5   | 9/30  | Branch & cut in a MIP solver                                                           |                                |
 |       | 10/2  | Learn-to-branch / Learn-to-cut                                                         | Report 1                       |
 |   6   | 10/7  | <span style="color:red;">Holiday</span>                                                |                                |
@@ -65,13 +78,13 @@ The course is designed to be comprehensive and interactive with the components b
 |  11   | 11/11 | Algorithm with prediction                                                              |                                |
 |       | 11/13 | Algorithm with prediction                                                              | Highlight talk                 |
 |  12   | 11/18 | Neural algorithmic reasoning, Automated algorithm configuration  ♦                     |                                |
-|       |       | [**Part III: Data-driven Optimization**](/teaching/ai4do/2025/part-3)             |                                |
+|       |       | [**Part III: Data-driven optimization**](/teaching/ai4do/2025/part-3)                  |                                |
 |       | 11/20 | Optimization under uncertainty – Theory                                                | Report 3                       |
 |  13   | 11/25 | Optimization under uncertainty – Data-driven robust optimization                       |                                |
 |       | 11/27 | Optimization under uncertainty – Data-driven robust optimization  ♦                    |                                |
 |  14   | 12/2  | Decision-focused learning                                                              |                                |
 |       | 12/4  | Decision-focused learning  ♦                                                           |                                |
-|       |       | [**Part IV: Finale**](/teaching/ai4do/2025/part-4)                                |                                |
+|       |       | [**Part IV: Finale**](/teaching/ai4do/2025/part-4)                                     |                                |
 |  15   | 12/9  | Recent topics – Optimization over a trained neural network, Generative AI  ♦           |                                |
 |       | 12/11 | Recent topics – Explainable AI                                                         | Report 4                       |
 |  16   | 12/16 | Final project presentation                                                             |                                |
