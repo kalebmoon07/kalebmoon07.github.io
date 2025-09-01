@@ -40,6 +40,7 @@ author_profile: false
 
 ### Optimization
 
+- CO@Work 2020 – **Mathematical Optimization Basics** (Mon – Wed) [(website)](https://co-at-work.zib.de/berlin2020/)
 - Rensselaer Polytechnic Institute – Combinatorial Optimization and Integer Programming, Spring 2021 (by John E. Mitchell) [(website)](https://mitchjrpi.github.io/matp6620/)  
 - Purdue University – Computational Optimization, Spring 2025 (by Can Li) [(website)](https://canli1.github.io/courses) [YouTube](https://www.youtube.com/playlist?list=PLY55ZtPLwJDzxvac88eR_Oxyb3d-Cf5qx)  
 
