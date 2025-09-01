@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Postdoc Researcher & Lecturer at POSTECH"
+title: "Postdoctoral Researcher & Lecturer at POSTECH"
 author_profile: true
 redirect_from: 
   - /about/
@@ -31,6 +31,8 @@ redirect_from:
 
 ## Work Experience
 
+* **Visiting Research Fellow** @ LaBRI (Laboratoire Bordelais de Recherche en Informatique) (Sep 2025)
+  * Host: Dr. [Loïc Paulevé](https://loicpauleve.name/)
 * **Visiting Predoctoral Fellow** @ LaBRI (Laboratoire Bordelais de Recherche en Informatique) (Jun & Nov 2024)
   * Host: Dr. [Loïc Paulevé](https://loicpauleve.name/)
 * **Visiting Predoctoral Fellow** @ Stern School of Business, New York University (Jan 2024)
@@ -52,13 +54,4 @@ redirect_from:
 * OR Spectrum (2023-present)
 * International Journal of Production Research (2022-present)
 
-## Scholarships
 
-* Overseas Dispatch Support Program for Graduate Students, POSTECH (Oct 2024)
-* Boeing Scholarship, POSTECH (Mar & Sep 2017)
-* Honorary Scholarship, POSTECH (Mar 2017)
-* STX Foundation Scholarship, STX Foundation (Mar 2017-Aug 2018)
-* POSTECH Church Scholarship, POSTECH Church (Jan 2017)
-* Silent Love Scholarship, POSTECH (Mar & Sep 2016)
-* Work Scholarship, POSTECH (Mar 2016-Feb 2017)
-* Jigok Scholarship, POSTECH (Mar 2015-Feb 2017)

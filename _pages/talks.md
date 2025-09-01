@@ -9,6 +9,9 @@ author_profile: false
 
 ## Conference Presentations (International)
 
+* **INFORMS 2025**, Atlanta, GA, USA (Oct 26–29)
+  * A Taxonomy of Control Problems in Boolean Networks (Oral presentation)*
+  * The Approximation Ratio of the MULTIFIT Algorithm: A Computer-Assisted Proof (Poster)
 * **INFORMS 2024**, Seattle, WA, USA (Oct 20–23)
   * Proving an Approximation Ratio by Mathematical Programming
   * Minimizing the Stay Time of Open Shop Scheduling Problems with the Unit Processing Time
