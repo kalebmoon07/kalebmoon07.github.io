@@ -5,7 +5,7 @@ permalink: /teaching/ai4do/2025/journal-list
 author_profile: false
 ---
 
-## AI Top Conferences
+## AI Conferences
 
 - **ICML** — International Conference on Machine Learning  
 - **ICLR** — International Conference on Learning Representations  
@@ -15,7 +15,7 @@ author_profile: false
 - **AAAI** — AAAI Conference on Artificial Intelligence  
 - **CPAIOR** — International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research  
 
-## Learning Theory
+## Learning / Algorithms Theory
 
 - **COLT** — Conference on Learning Theory  
 - **FOCS** — IEEE Symposium on Foundations of Computer Science  
@@ -30,7 +30,7 @@ author_profile: false
 - **ML** — Machine Learning (Springer journal)  
 - **JAIR** — Journal of Artificial Intelligence Research  
 
-## OR/MS Top Journals
+## OR/MS Journals
 
 - **Any INFORMS Journal** (e.g., *Operations Research*, *Mathematics of Operations Research*, *Management Science*, *INFORMS Journal on Computing*, etc.)  
 - **Any SIAM Journal** (e.g., *SIAM Journal on Optimization*, *SIAM Journal on Computing*, etc.)  
