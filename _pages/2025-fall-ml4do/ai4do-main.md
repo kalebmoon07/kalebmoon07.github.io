@@ -34,11 +34,13 @@ The course is designed to be comprehensive and interactive with the components b
 * **Lecture**: The instructor will present the main concepts and techniques.
 * **In-class presentation**: Some classes will be reserved for student presentations. An assigned team must select a research paper among the given list and explain it to the class (25 minutes). Each student must be involved in at least one presentation.
 * **Referee report**: At the end of each topic, students must select a research paper from the given list and write a referee report with critical analysis (max 2 pages, similar to a peer-review in a AI conference). During the course, four reports will be assigned.
+  * See the [writing guidelines](/teaching/ai4do/2025/writing-guideline)
 * **Final project**: Students in a team will develop a new method that applies AI to discrete optimization.
   * A proposal must be submitted at the end of week 6 (max 2 pages).
   * In week 11, a highlight talk will be given by each team (5 minutes).
   * The final results will be presented at the end of the course (30 minutes), which will be peer-reviewed by other students.
   * A final report must be submitted (max 16 pages).
+  * The results should **include an evaluation of the proposed method** unless it is theoretical.
 
 ### Grade policy
 
