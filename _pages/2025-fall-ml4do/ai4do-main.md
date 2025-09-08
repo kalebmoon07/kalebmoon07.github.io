@@ -49,7 +49,7 @@ The course is designed to be comprehensive and interactive with the components b
 * Final project: 50%
 * Participation and attendance: 10%
 
-## Course Schedule
+## Course Schedule {#schedule}
 
 (♦: Potential slots for in-class presentation by students)
 
