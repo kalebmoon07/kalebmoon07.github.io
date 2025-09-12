@@ -35,7 +35,7 @@ author_profile: false
 ### Machine learning
 
 - Stanford University – **Machine Learning with Graphs (CS224W)**, Fall 2024 (by Jure Leskovec) [(website)](https://web.stanford.edu/class/cs224w/) [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)  
-- Stanford University – Reinforcement Learning (CS234), Winter 2025 (by Emma Brunskill) [(website)](https://web.stanford.edu/class/cs234/) [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX)  
+- Stanford University – **Reinforcement Learning (CS234)**, Winter 2024 (by Emma Brunskill) [(website)](https://web.stanford.edu/class/cs234/CS234Spr2024/index.html) [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX)  
 - CMU – Introduction to Deep Learning (11-785), Spring 2025 (by Bhiksha Raj, Rita Singh) [(website)](https://deeplearning.cs.cmu.edu/S25/index.html) [YouTube](https://www.youtube.com/playlist?list=PLp-0K3kfddPylfHM6O3cBkRGdSW3m6n1C)  
 
 ### Optimization
