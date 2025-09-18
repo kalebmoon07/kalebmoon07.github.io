@@ -19,7 +19,7 @@ You may refer to the [ICML 2025 Reviewer Instructions](https://icml.cc/Conferenc
   * **Overall score**: your overall evaluation of the paper
     * 5: Strong accept, 4: Accept, 3: Weak accept, 2: Weak reject, 1: Reject
   * (Submission of the scores is via a PLMS poll, not in the report.)
-* **Main report for detailed comments** 
+* **Main report for detailed comments ($\geq$ 2 pages)**
   * Summary of the main findings and contributions of the selected papers.
   * Discussion of the implications and potential applications of the research.
   * Critical analysis of the strengths and weaknesses of the papers.
