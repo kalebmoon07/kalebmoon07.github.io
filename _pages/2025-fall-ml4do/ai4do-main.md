@@ -112,5 +112,5 @@ Note:
 
 - Week 3, 9/18 (Presentation: Group 1; Discussion: Kyungduk Moon)
   - <a id="paper-kwon-2020-pomo"></a>Kwon, Y.-D., Choo, J., Kim, B., Yoon, I., Gwon, Y., & Min, S. (2020). *POMO: Policy Optimization with Multiple Optima for Reinforcement Learning*. In **NeurIPS**, 33, 21188–21198.
-- Week 4, 9/25 (Presentation: Group ?; Discussion: Group ?)
+- Week 4, 9/25 (Presentation: Group 5; Discussion: Group 3)
   - <a id="paper-kool-2018"></a>Kool, W., van Hoof, H., & Welling, M. (2018). *Attention, Learn to Solve Routing Problems!* In **ICLR**.
