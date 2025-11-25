@@ -82,7 +82,7 @@ The course is designed to be comprehensive and interactive with the components b
 |  12   | 11/18 | Highlight talk (Student presentation)                                                                                                                                                                                                        |                               Highlight talk |
 |       |       | [**Part III: Data-driven optimization**](/teaching/ai4do/2025/reading-list#part-3)                                                                                                                                                                                                                      |                                |
 |       | 11/20 | Automated algorithm configuration [[PPSN 2020] Tutorial on Alg Config](https://www.youtube.com/watch?v=O78Edc13BTg), [[UAI 2018] Bayesian Optimization](https://www.youtube.com/watch?v=C5nqEHpdyoE)  |                        |
-|  13   | 11/25 | Optimization under uncertainty – Theory                                                                                                                                                                                                                                        |                                |
+|  13   | 11/25 | Automated algorithm configuration - Theory [[IPAM 2021] How much data is sufficient ...?](https://www.youtube.com/watch?v=3_6A_Qof9MI)                                                                                                                                                                                                                                       |                                |
 |       | 11/27 | Optimization under uncertainty – Theory                                                                                                                                                                                                                                       |                                |
 |  14   | 12/2  |Optimization under uncertainty – Data-driven robust optimization                                                                                                                                                                                                                                                                               |                                |
 |       | 12/4  | Decision-focused learning                                                                                                                                                                                                                                                                              |   Report 3                             |
@@ -116,9 +116,9 @@ Note:
   - <a id="paper-kool-2018"></a>Kool, W., van Hoof, H., & Welling, M. (2018). *Attention, Learn to Solve Routing Problems!* In **ICLR**.
 - Week 7, 10/12 (Presentation: Group 4; Discussion: Group 2)
   - <a id="paper-gasse-2019"></a>Gasse, M., Chetelat, D., Ferroni, N., Charlin, L., & Lodi, A. (2019). Exact Combinatorial Optimization with Graph Convolutional Neural Networks. In **NeurIPS**, 32.
-- Week 15, 12/9 (Presentation: Group ?; Discussion: Group ?)
-  - To be determined.
-- Week 15, 12/9 (Presentation: Group ?; Discussion: Group ?)
-  - To be determined.
-- Week 15, 12/9 (Presentation: Group ?; Discussion: Group ?)
-  - To be determined.
+- Week 15, 12/9 (Presentation: Group 3; Discussion: Group 1)
+  - Zhang, X., Chen, L., Gendreau, M., & Langevin, A. (2022). Learning-Based Branch-and-Price Algorithms for the Vehicle Routing Problem with Time Windows and Two-Dimensional Loading Constraints. _INFORMS Journal on Computing_, _34_(3), 1419–1436.
+- Week 15, 12/9 (Presentation: Group 2; Discussion: Group 4)
+  - Ferber, A., Wilder, B., Dilkina, B., & Tambe, M. (2020). MIPaaL: Mixed Integer Program as a Layer. _Proceedings of the AAAI Conference on Artificial Intelligence_, _34_(02), Article 02.
+- Week 15, 12/9 (Presentation: Kyungduk Moon; Discussion: Group 5)
+  - Fischetti, M., & Jo, J. (2018). Deep neural networks and mixed integer linear optimization. _Constraints_, _23_(3), 296–309.
