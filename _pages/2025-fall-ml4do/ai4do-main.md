@@ -33,7 +33,7 @@ The course is designed to be comprehensive and interactive with the components b
 
 * **Lecture**: The instructor will present the main concepts and techniques.
 * **In-class presentation**: Some classes will be reserved for student presentations. An assigned team must select a research paper among the given list and explain it to the class (25 minutes). Each student must be involved in at least one presentation.
-* **Referee report**: At the end of each topic, students must select a research paper from the given list and write a referee report with critical analysis (min 2 pages, similar to a peer-review in a AI conference). During the course, four reports will be assigned.
+* **Referee report**: At the end of each topic, students must select a research paper from the given list and write a referee report with critical analysis (min 2 pages, similar to a peer-review in an AI conference). During the course, three reports will be assigned.
   <!-- * See the [writing guidelines](/teaching/ai4do/2025/writing-guideline) -->
 * **Final project**: Students in a team will develop a new method that applies AI to discrete optimization.
   * A proposal must be submitted at the end of week 6 (max 2 pages).
@@ -87,11 +87,11 @@ The course is designed to be comprehensive and interactive with the components b
 |       |       | [**Part III: Data-driven optimization**](/teaching/ai4do/2025/reading-list#part-3)                                                                                                                                                                                                                      |                                |
 |  14   | 12/2  | Optimization under uncertainty – Theory [[Purdue CHE597] Stoc. Prog. and Benders](https://www.youtube.com/watch?v=ZuBIWN8AR1s)                                                                                                                                                                                                                                                                               |                                |
 |       | 12/4  | Decision-focused learning [[CPAIOR 24] DFL Tutorial](https://www.youtube.com/watch?v=cNEL9QcHzBE), [[RPI Seminar] Predict-then-optimize](https://www.youtube.com/watch?v=Cu0EN92ESZo)                                                                                                                                                                                                                                                                              |   Report 3                             |
-|  15   | 12/9  | Data-driven robust optimization, Optimization over a trained neural network (lectures give as videos) [[CO@Work 24] DL in RO](https://www.youtube.com/watch?v=nX7RLEDGDEY), [[Gurobi Webinar 25] Opt. over NN](https://www.youtube.com/watch?v=wixZHD37dkg), In-class presentations ♦                                                                                                                                                                                                                            |                                |
+|  15   | 12/9  |  In-class presentations ♦                                                                                                                                                                                                                            |                                |
+|       | 12/11 | <span style="color:rgb(0, 112, 192);"> Data-driven robust optimization, Optimization over a trained neural network (in three video lectures)</span> [[CO@Work 24] DL in RO](https://www.youtube.com/watch?v=nX7RLEDGDEY), [[Gurobi Webinar 25] Opt. over NN](https://www.youtube.com/watch?v=wixZHD37dkg)                                                                                                                                                                                                                                                                         |                        |
 |       |       | [**Part IV: Finale**](/teaching/ai4do/2025/reading-list#part-4)                                                                                                                                                                                                                                         |                                |
-|       | 12/11 | <span style="color:rgb(0, 112, 192);">Recent topics – Large language models, Explainable AI (video lectures)</span>                                                                                                                                                                                                                                                                          |                        |
 |  16   | 12/16 | Final project presentation                                                                                                                                                                                                                                                                              |                                |
-|       | 12/18 | Final project presentation                                                                                                                                                                                                                                                                              | Report 4, Final report                   |
+|       | 12/18 | Final project presentation; Recent topics – Large language models, Explainable AI [[DOTs 24] AI OPT modeling](https://www.youtube.com/watch?v=_vN3pwB-PKI), [[AAAI 22] Explainable AI Tutorial](https://www.youtube.com/watch?v=07hifxAsXjc), [[IMUS 21] Counterfactual explanations](https://www.youtube.com/watch?v=havqyKnsg-A)                                                                                                                                                                                                                                                                              | Final report                   |
 
 ---
 
@@ -101,7 +101,7 @@ Note:
 * Students must select papers from [the listed journals and conferences](/teaching/ai4do/2025/journal-list)
 * The <span style="color:green;">classes in Week 4</span> will be delivered online due to the instructor's business trip.
 * Potential <span style="color:rgb(0, 112, 192);">make-up classes</span> are colored in blue.
-  * Video lectures for Part III may be provided instead.
+  * Video lectures for Part III will be provided instead.
 * Another make-up class for term project presentation in Week 16 may be scheduled.
 
 ## Useful information
@@ -112,14 +112,23 @@ Note:
 ## Reference for in-class presentation
 
 - Week 3, 9/18 (Presentation: Group 1; Discussion: Kyungduk Moon)
-  - <a id="paper-kwon-2020-pomo"></a>Kwon, Y.-D., Choo, J., Kim, B., Yoon, I., Gwon, Y., & Min, S. (2020). *POMO: Policy Optimization with Multiple Optima for Reinforcement Learning*. In **NeurIPS**, 33, 21188–21198.
+  - <a id="paper-kwon-2020-pomo"></a>Kwon, Y.-D., Choo, J., Kim, B., Yoon, I., Gwon, Y., & Min, S. (2020). POMO: Policy Optimization with Multiple Optima for Reinforcement Learning. Advances in Neural Information Processing Systems, 33, 21188–21198.
 - Week 4, 9/25 (Presentation: Group 5; Discussion: Group 3)
-  - <a id="paper-kool-2018"></a>Kool, W., van Hoof, H., & Welling, M. (2018). *Attention, Learn to Solve Routing Problems!* In **ICLR**.
-- Week 7, 10/12 (Presentation: Group 4; Discussion: Group 2)
-  - <a id="paper-gasse-2019"></a>Gasse, M., Chetelat, D., Ferroni, N., Charlin, L., & Lodi, A. (2019). Exact Combinatorial Optimization with Graph Convolutional Neural Networks. In **NeurIPS**, 32.
+  - <a id="paper-kool-2018"></a>Kool, W., Hoof, H. van, & Welling, M. (2018, September 27). Attention, Learn to Solve Routing Problems! International Conference on Learning Representations.
+- Week 7, 10/14 (Presentation: Group 4; Discussion: Group 2)
+  - <a id="paper-gasse-2019"></a>Gasse, M., Chetelat, D., Ferroni, N., Charlin, L., & Lodi, A. (2019). Exact Combinatorial Optimization with Graph Convolutional Neural Networks. Advances in Neural Information Processing Systems, 32.
 - Week 15, 12/9 (Presentation: Group 3; Discussion: Group 1)
   - Zhang, X., Chen, L., Gendreau, M., & Langevin, A. (2022). Learning-Based Branch-and-Price Algorithms for the Vehicle Routing Problem with Time Windows and Two-Dimensional Loading Constraints. _INFORMS Journal on Computing_, _34_(3), 1419–1436.
 - Week 15, 12/9 (Presentation: Group 2; Discussion: Group 4)
   - Ferber, A., Wilder, B., Dilkina, B., & Tambe, M. (2020). MIPaaL: Mixed Integer Program as a Layer. _Proceedings of the AAAI Conference on Artificial Intelligence_, _34_(02), Article 02.
 - Week 15, 12/9 (Presentation: Kyungduk Moon; Discussion: Group 5)
   - Fischetti, M., & Jo, J. (2018). Deep neural networks and mixed integer linear optimization. _Constraints_, _23_(3), 296–309.
+
+## Final project topics
+
+* **Group 1**: Online Scheduling Problem:
+A Combinatorial Semi-Bandit Perspective
+* **Group 2**: Deep Multi-Agent Reinforcement Learning with Graph Attention Network for Large-Scale Traffic Signal Control
+* **Group 3**: Scalable Estimation of TSP Tour Lengths via a Unified GNN-based Approach
+* **Group 4**: Preference-Based Black-box Optimization: Mathematical Optimization from Human Feedback
+* **Group 5**: ORMINI: Improving the Accuracy of Automated Optimization Modeling from Natural Language via RAG-based Domain Knowledge Injection
