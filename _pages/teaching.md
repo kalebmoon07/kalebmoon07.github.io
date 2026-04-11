@@ -6,13 +6,25 @@ author_profile: false
 ---
 (G: Graduate, U: Undergraduate)
 
+{% assign taught_courses = site.teaching | where: "teaching_type", "lecturer" | sort: "sequence" | reverse %}
+{% assign assistant_courses = site.teaching | where: "teaching_type", "assistant" | sort: "sequence" | reverse %}
+
 ## Courses Taught
 
 ### @ POSTECH
 
-* [**(G) IMEN 891N** &nbsp; AI for Discrete Optimization (Fall 2025)](/teaching/ai4do/2025/)
+<ul>
+{% for item in taught_courses %}
+  <li>
+    {% if item.course_url %}<a href="{{ item.course_url }}"><strong>{{ item.title }}</strong></a>{% else %}<strong>{{ item.title }}</strong>{% endif %}
+  </li>
+{% endfor %}
+</ul>
 
 ## Teaching Assistant @ POSTECH
 
-* **(U) IMEN 376** &nbsp; Production & Operations Management (Spring 2019)
-* **(G) IMEN 561** &nbsp; Network Flows (Fall 2018)
+<ul>
+{% for item in assistant_courses %}
+  <li><strong>{{ item.title }}</strong></li>
+{% endfor %}
+</ul>

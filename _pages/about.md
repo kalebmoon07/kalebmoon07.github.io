@@ -11,47 +11,53 @@ redirect_from:
   * The Department of Industrial and Management Engineering [(POSTECH IME)](https://ime.postech.ac.kr/en/)
 * Management Science and Optimization Lab [(MSO Lab)](https://www.msolab.org/)
 
-## Research Interest
-
-* Multi-level optimization
-* Production planning & scheduling
-* Computational biology
-
 ## Education
 
 * **Ph.D. in Industrial and Management Engineering**, POSTECH (2020-2025)
   * Thesis: Multilevel Optimization for Precision Medicine: A Boolean Network Control Approach
-  * Advisor: Professor [Kangbok Lee](https://www.msolab.org/)
+  * Advisor: Prof. [Kangbok Lee](https://www.msolab.org/)
 * **M.S. in Industrial and Management Engineering**, POSTECH (2018-2020)
-  <!-- * Early graduation, The Best Presenter Award (Department of IME, POSTECH) -->
   * Thesis: Strategic Location Problem for Last-mile Delivery with Relaying Drones
-  * Advisor: Professor [Kangbok Lee](https://www.msolab.org/)
+  * Advisor: Prof. [Kangbok Lee](https://www.msolab.org/)
 * **B.S. in Industrial and Management Engineering**, POSTECH (2015-2018)
-  <!-- * Early graduation, Summa Cum Laude (2nd place) -->
+
+<!-- BEGIN AUTO-SYNC: about-sections -->
+## Research Interests
+
+* **Bilevel optimization**: Mathematical optimization, Computational complexity theory
+* **Production planning & scheduling**: Matheuristics, Constraint programming
+* **Computational biology**: Boolean networks, Gene regulatory networks, Metabolic networks
 
 ## Work Experience
 
-* **Visiting Research Fellow** @ LaBRI (Laboratoire Bordelais de Recherche en Informatique) (Sep 2025)
-  * Host: Dr. [Loïc Paulevé](https://loicpauleve.name/)
-* **Visiting Predoctoral Fellow** @ LaBRI (Laboratoire Bordelais de Recherche en Informatique) (Jun & Nov 2024)
-  * Host: Dr. [Loïc Paulevé](https://loicpauleve.name/)
-* **Visiting Predoctoral Fellow** @ Stern School of Business, New York University (Jan 2024)
-  * Host: Professor [Michael L. Pinedo](https://www.stern.nyu.edu/faculty/bio/michael-pinedo)
-* **Visiting Predoctoral Fellow** @ Kellogg School of Management, Northwestern University (Jul-Aug 2017)
-  * Host: Professor [Sunil Chopra](https://www.kellogg.northwestern.edu/faculty/directory/chopra_sunil/)
-<!-- * Intern, PMGROW Corp. (Jul-Aug 2016) -->
+* **Postdoctoral Researcher**, Department of Industrial and Management Engineering ; POSTECH (Pohang University of Science and Technology), Pohang, Korea (Aug 2025 – present)
+  * Advisor: Prof. Kangbok Lee
+* **Lecturer**, Department of Industrial and Management Engineering ; POSTECH (Pohang University of Science and Technology), Pohang, Korea (Aug 2025 – present)
+* **Visiting Research Fellow**, Department of Industrial Engineering ; Swanson School of Engineering at University of Pittsburgh, Pittsburgh, PA, USA (Dec 2025 – Jan 2026)
+  * Host: Prof. Bo Zeng
+* **Visiting Predoctoral Fellow**, Modèles & Technologies pour la Vérification Team ; Laboratoire Bordelais de Recherche en Informatique (LaBRI) at U. of Bordeaux, Talence, France (Jun & Nov 2024, Sep 2025)
+  * Host: Dr. Loïc Paulevé
+* **Visiting Predoctoral Fellow**, Department of Technology, Operations, and Statistics ; Stern School of Business, New York University, New York, NY, USA (Jan 2024)
+  * Host: Prof. Michael L. Pinedo
+* **Visiting Predoctoral Fellow**, Operations Department ; Kellogg School of Management, Northwestern University, Evanston, IL, USA (Jul – Aug 2017)
+  * Host: Prof. Sunil Chopra
+* **Internship**, Administration Headquarters, PMGROW Corp., Uiwang, Korea (Jul – Aug 2016)
 
 ## Awards
 
-* The Best Presenter Award, Department of Industrial and Management Engineering, POSTECH (Feb 2019)
+* **Best Doctoral Dissertation Award**, Department of Industrial and Management Engineering, POSTECH (Feb 2026)
+  * For the best doctoral dissertation among Ph.D. graduates of the department in 2025
+* **Best Presenter Award**, Department of Industrial and Management Engineering, POSTECH (Feb 2019)
+  * For the best thesis presentation among M.S. and Ph.D. candidates of the department
 
 ## Academic Activities
 
 ### Journal Reviewer
 
-* Computers & Operations Research (2025-present)
-* Computers & Industrial Engineering (2024-present)
-* OR Spectrum (2023-present)
-* International Journal of Production Research (2022-present)
-
-
+* Mathematical Biosciences and Engineering (2025 – present)
+* Chemical Engineering Research and Design (2025 – present)
+* Computers & Operations Research (2025 – present)
+* Computers & Industrial Engineering (2024 – present)
+* OR Spectrum (2023 – present)
+* International Journal of Production Research (2022 – present)
+<!-- END AUTO-SYNC: about-sections -->
